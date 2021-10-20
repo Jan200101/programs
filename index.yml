@@ -18,3 +18,17 @@ steam:
   Grade: Gold
   Category: Games
   Icon: steam.svg
+
+origin:
+  Name: Origin
+  Description: The official Origin launcher.
+  Grade: Gold
+  Category: Games
+  Icon: origin.svg
+
+gog:
+  Name: GOG Galaxy
+  Description: The official GOG Galaxy launcher.
+  Grade: Testing
+  Category: Games
+  Icon: gog.svg
