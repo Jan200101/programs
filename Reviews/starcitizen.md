@@ -1,34 +1,34 @@
-# GOG Galaxy
-Review for the gog installer.
+# Star Citizen Launcher
+Review for the star citizen installer.
 
-Maintainer: @mirkobrombin
+Maintainer: @evoxcx
 
 **Is the program properly opened?**  
-Grade: Platinum  
+Grade: Platinum
 Additional notes: n/a
 
 **Is it showing alerts or other warnings?**  
 Grade: Platinum  
-Additional n/a
+Additional notes: n/a
 
 **Does it show graphical glitches?**  
-Grade: Gold  
-Additional notes: Lag on launch but works smoothly after login.
+Grade: Platinum  
+Additional notes: n/a
 
 **Does it require some tweaking in order to work properly? (Out of normal software configuration)**  
 Grade: Platinum  
 Additional notes: n/a
 
 **Did it crash during tests execution?**  
-Grade: Platinum  
+Grade: Platinum
 Additional notes: n/a
 
 **Is it usable?**  
-Grade: Platinum  
-Additional notes: n/a
+Grade: Bronze  
+Additional notes: EAC not working for the [moment](https://robertsspaceindustries.com/spectrum/community/SC/forum/190048/thread/star-citizen-alpha-3-15-1e-ptu-7876811-patch-notes) | [WorkAround](https://github.com/starcitizen-lug/lugWarning) (Warning a ban can be issued)
 
 **Final grade? (the lower evaluation from previous questions)**  
-Grade: Gold  
+Grade: Bronze  
 Additional notes: n/a
 
 **Additional notes**  

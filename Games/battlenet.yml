@@ -1,22 +1,24 @@
 Name: battlenet
 Description: The official Blizzard Battle.net launcher.
 Grade: Gold
+Arch: win64
 
 Dependencies:
 - msls31
 - riched20
 - arial32
+- vcredist2015
 
 Parameters:
   dxvk: true
-  esync: true
+  sync: esync
   discrete_gpu: true
   
 Executable:
   name: Battle.net
   icon: battlenet.png
   file: Battle.net.exe
-  path: Program Files (x86)/Battle.net
+  path: Program Files (x86)/Battle.net/Battle.net.exe
   
 Steps:
 - action: install_msi

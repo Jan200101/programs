@@ -1,5 +1,5 @@
-# GOG Galaxy
-Review for the gog installer.
+# GOG Galaxy (v1)
+Review for the gogv1 installer.
 
 Maintainer: @mirkobrombin
 
@@ -8,12 +8,12 @@ Grade: Platinum
 Additional notes: n/a
 
 **Is it showing alerts or other warnings?**  
-Grade: Platinum  
-Additional n/a
+Grade: Gold  
+Additional Show a NTFS alert on launch.
 
 **Does it show graphical glitches?**  
-Grade: Gold  
-Additional notes: Lag on launch but works smoothly after login.
+Grade: showing  
+Additional notes: n/a
 
 **Does it require some tweaking in order to work properly? (Out of normal software configuration)**  
 Grade: Platinum  
