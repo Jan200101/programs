@@ -1,0 +1,32 @@
+{
+    "Name": "gog",
+    "Description": "The official GOG Galaxy launcher.",
+    "Grade": "Silver",
+    "Arch": "win64",
+    "Dependencies": [
+        "vcredist2015",
+        "allfonts"
+    ],
+    "Parameters": {
+        "dxvk": true,
+        "vkd3d": true,
+        "sync": "fsync",
+        "discrete_gpu": true
+    },
+    "Executable": {
+        "name": "GOG Galaxy",
+        "icon": "gog.svg",
+        "file": "GalaxyClient.exe",
+        "path": "Program Files (x86)/GOG Galaxy/GalaxyClient.exe",
+        "arguments": "--in-process-gpu /runWithoutUpdating /deelevated"
+    },
+    "Steps": [
+        {
+            "action": "install_exe",
+            "file_name": "setup_galaxy_2.0.50.34.exe",
+            "url": "https://content-system.gog.com/open_link/download?path=/open/galaxy/client/2.0.50.34/setup_galaxy_2.0.50.34.exe",
+            "file_checksum": "7e58c84138d8007044da9c6a6f8a1d58",
+            "arguments": "/s"
+        }
+    ]
+}

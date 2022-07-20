@@ -1,0 +1,119 @@
+{
+    "epicgamestore": {
+        "Arch": "win64",
+        "Name": "Epic Games Store",
+        "Description": "The official Epic Games launcher.",
+        "Grade": "Platinum",
+        "Category": "Games",
+        "Icon": "epicgamestore.svg",
+        "Event": "EpicGamesLauncherInstaller.msi"
+    },
+    "uplay": {
+        "Arch": "win64",
+        "Name": "Ubisoft Connect",
+        "Description": "The official Ubisoft Connect launcher.",
+        "Grade": "Gold",
+        "Category": "Games",
+        "Icon": "uplay.png",
+        "Event": "UbisoftConnectInstaller.exe"
+    },
+    "steam": {
+        "Arch": "win64",
+        "Name": "Steam",
+        "Description": "The official Steam launcher.",
+        "Grade": "Bronze",
+        "Category": "Games",
+        "Icon": "steam.svg",
+        "Event": "SteamSetup.exe"
+    },
+    "origin": {
+        "Arch": "win64",
+        "Name": "Origin",
+        "Description": "The official Origin launcher.",
+        "Grade": "Gold",
+        "Category": "Games",
+        "Icon": "origin.svg",
+        "Event": "OriginSetup.exe"
+    },
+    "eaclient": {
+        "Arch": "win64",
+        "Name": "EA Launcher",
+        "Description": "The official EA launcher.",
+        "Grade": "Platinum",
+        "Category": "Games",
+        "Icon": "eaclient.png",
+        "Event": "EAappInstaller.exe"
+    },
+    "gog": {
+        "Arch": "win64",
+        "Name": "GOG Galaxy",
+        "Description": "The official GOG Galaxy launcher.",
+        "Grade": "Silver",
+        "Category": "Games",
+        "Icon": "gog.svg",
+        "Event": "setup_galaxy_2.*.exe"
+    },
+    "gogv1": {
+        "Arch": "win64",
+        "Name": "GOG Galaxy v1",
+        "Description": "The official v1 GOG Galaxy launcher.",
+        "Grade": "Gold",
+        "Category": "Games",
+        "Icon": "gogv1.png",
+        "Event": "setup_galaxy_1.*.exe"
+    },
+    "battlenet": {
+        "Arch": "win64",
+        "Name": "Blizzard Battle.net",
+        "Description": "The official Blizzard Battle.net launcher.",
+        "Grade": "Gold",
+        "Category": "Games",
+        "Icon": "battlenet.png",
+        "Event": "Battle.net-Setup*.exe"
+    },
+    "starcitizen": {
+        "Arch": "win64",
+        "Name": "Star Citizen",
+        "Description": "The official Star Citizen launcher.",
+        "Grade": "Bronze",
+        "Category": "Games",
+        "Icon": "starcitizen.png",
+        "Event": "RSI-Setup-*.exe"
+    },
+    "enlisted": {
+        "Arch": "win64",
+        "Name": "Enlisted",
+        "Description": "The official Enlisted launcher.",
+        "Grade": "Silver",
+        "Category": "Games",
+        "Icon": "enlisted.png",
+        "Event": "enlisted_launcher_*.exe"
+    },
+    "flstudio": {
+        "Arch": "win64",
+        "Name": "FL Studio",
+        "Description": "FL Studio is a digital audio workstation developed by the Belgian company Image-Line.",
+        "Grade": "Gold",
+        "Category": "Software",
+        "Icon": "flstudio.png",
+        "Event": "flstudio_win64_*.exe"
+    },
+    "abletonlive": {
+        "Arch": "win64",
+        "Name": "Ableton Live",
+        "Description": "Live is a digital audio workstation developed by the German company Ableton.",
+        "Grade": "Silver",
+        "Category": "Software",
+        "Icon": "abletonlive.png",
+        "Event": "ableton*.exe"
+    },
+    "fusion360": {
+        "Arch": "win64",
+        "Name": "Autodesk Fusion 360",
+        "Description": "Fusion 360 is a cloud-based 3D CAD, CAM & CAE design tool from Autodesk. It is available on a number of platforms including Windows, Mac & In-Browser.",
+        "Grade": "Bronze",
+        "Category": "Software",
+        "Icon": "fusion360.png",
+        "Event": "fusion360.exe"
+    }
+}
