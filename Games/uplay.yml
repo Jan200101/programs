@@ -13,7 +13,7 @@ Dependencies:
 
 Parameters:
   dxvk: true
-  sync: esync
+  sync: fsync
   discrete_gpu: true
   
 Executable:
@@ -26,7 +26,7 @@ Steps:
 - action: install_exe
   file_name: UbisoftConnectInstaller.exe
   url: https://ubistatic3-a.akamaihd.net/orbit/launcher_installer/UbisoftConnectInstaller.exe
-  file_checksum: 0aef4ce3f61912d2c238ad250c0c7999
+  file_checksum: 0b908c2ee2ffa53d5377eaf06d05fe4c
   arguments: /S
   
 - action: update_config

@@ -1,6 +1,6 @@
 Name: eaclient
 Description: The official EA launcher (beta).
-Grade: Platinum
+Grade: Bronze
 Arch: win64
 
 Dependencies:
@@ -13,7 +13,7 @@ Dependencies:
 
 Parameters:
   dxvk: true
-  sync: esync
+  sync: fsync
   discrete_gpu: true
   
 Executable:
@@ -25,5 +25,5 @@ Executable:
 Steps:
 - action: install_exe
   file_name: EAappInstaller.exe
-  url: https://cdn.usebottles.com/programs/EAappInstaller.exe
-  file_checksum: d907b024e5be3810ce660bf2748a9c69
+  url: https://origin-a.akamaihd.net/EA-Desktop-Client-Download/installer-releases/EAappInstaller.exe
+  file_checksum: 25912ccda36de9fb47aa4e3a0decb2db

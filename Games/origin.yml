@@ -5,6 +5,7 @@ Arch: win64
 
 Dependencies:
 - d3dx9
+- d3dx11
 - riched20
 - allfonts
 - d3dcompiler_43
@@ -13,7 +14,7 @@ Dependencies:
 
 Parameters:
   dxvk: true
-  sync: esync
+  sync: fsync
   discrete_gpu: true
   
 Executable:
@@ -21,6 +22,7 @@ Executable:
   icon: origin.svg
   file: Origin.exe
   path: Program Files (x86)/Origin/Origin.exe
+  arguments: "STAGING_SHARED_MEMORY=0 %command%"
   
 Steps:
 - action: install_exe

@@ -10,10 +10,11 @@ Dependencies:
 - allfonts
 - d3dcompiler_43
 - d3dcompiler_47
+- vcredist2015
 
 Parameters:
   dxvk: true
-  sync: esync
+  sync: fsync
   discrete_gpu: true
   
 Executable:
@@ -29,3 +30,8 @@ Steps:
   url: https://cdn.usebottles.com/programs/EpicGamesLauncherInstaller.msi
   file_checksum: ebde67191bc1a483fd821daf8e01ce46
   arguments: /q
+
+Checks:
+  files:
+    - Program Files (x86)/Epic Games/Launcher/Portal/Binaries/Win32/EpicGamesLauncher.exe
+  

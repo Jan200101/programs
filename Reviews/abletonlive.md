@@ -1,18 +1,18 @@
-# EA Launcher
-Review for the origin installer.
+# Ableton Live
+Review for the Ableton Live installer.
 
-Maintainer: @mirkobrombin
+Maintainers: @nickberry17
 
 **Is the program properly opened?**  
-Grade: Bronze  
-Additional notes: For some users it works perfectly, others don't get to login (with the same conf). Although at the moment there are more positive reports than negatives, I rate this a Bronze experience.
+Grade: Silver  
+Additional notes: Installer may freeze for a moment or two showing a black screen. Just keep pressing wait, it should eventually work.
 
 **Is it showing alerts or other warnings?**  
-Grade: Platinum  
+Grade: Silver  
 Additional notes: n/a
 
 **Does it show graphical glitches?**  
-Grade: Platinum  
+Grade: Silver  
 Additional notes: n/a
 
 **Does it require some tweaking in order to work properly? (Out of normal software configuration)**  
@@ -20,16 +20,16 @@ Grade: Platinum
 Additional notes: n/a
 
 **Did it crash during tests execution?**  
-Grade: Platinum  
+Grade: Gold  
 Additional notes: n/a
 
 **Is it usable?**  
-Grade: Platinum  
+Grade: Gold  
 Additional notes: n/a
 
 **Final grade? (the lower evaluation from previous questions)**  
-Grade: Bronze  
+Grade: Silver  
 Additional notes: n/a
 
 **Additional notes**  
-Need to be tested to more games but the experience is very smooth.
+You need to download your version of Live, extract it, then point the installer to that .exe file.

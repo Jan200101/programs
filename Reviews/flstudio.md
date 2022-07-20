@@ -1,11 +1,11 @@
-# EA Launcher
-Review for the origin installer.
+# FL Studio
+Review for the flstudio installer.
 
-Maintainer: @mirkobrombin
+Maintainers: @BobyMCbobs & @mirkobrombin
 
 **Is the program properly opened?**  
-Grade: Bronze  
-Additional notes: For some users it works perfectly, others don't get to login (with the same conf). Although at the moment there are more positive reports than negatives, I rate this a Bronze experience.
+Grade: Gold  
+Additional notes: Eventually freeze on start for 2s.
 
 **Is it showing alerts or other warnings?**  
 Grade: Platinum  
@@ -28,8 +28,8 @@ Grade: Platinum
 Additional notes: n/a
 
 **Final grade? (the lower evaluation from previous questions)**  
-Grade: Bronze  
+Grade: Gold  
 Additional notes: n/a
 
 **Additional notes**  
-Need to be tested to more games but the experience is very smooth.
+n/a
